@@ -19,7 +19,6 @@ function App() {
     }, 4500);
   };
 
-  //??????????????
 
   // Check user cookies/local storage session on mount
   useEffect(() => {
